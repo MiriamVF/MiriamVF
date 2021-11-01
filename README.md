@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ResetMiriam/ResetMiriam/main/github_image.png" alt="Image: Hello world! @ResetMiriam" />
+  <img width="100%" src="https://raw.githubusercontent.com/ResetMiriam/ResetMiriam/main/assets/github_image.png" alt="Image: Hello world! @ResetMiriam" />
 </div>
 
 <h1 align="center">👋 I'm Miriam, a passionate frontend developer</h1>
@@ -164,7 +164,7 @@
     
   </a>
     <img
-      src=""
+      src="https://raw.githubusercontent.com/ResetMiriam/ResetMiriam/main/assets/terminal.png"
       alt="terminal"
       width="40"
       height="40"
