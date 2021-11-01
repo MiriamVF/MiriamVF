@@ -2,9 +2,7 @@
   <img width="100%" src="https://raw.githubusercontent.com/ResetMiriam/ResetMiriam/main/github_image.png" alt="Image: Hello world! @ResetMiriam" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Miriam</h1>
-<h3 align="center">Front-end developer 
-</h3>
+<h1 align="center">👋 I'm Miriam, a passionate frontend developer</h1>
 
 <p> 📄 I'm graduated from <a href="https://adalab.es/" target="_blank">Adalab </a> Bootcamp.</p>
 <p> 🔭 I'm curretly working on my portfolio, it'll be available later in November.</p>
@@ -163,5 +161,12 @@
       width="40"
       height="40"
     />
+    
   </a>
+    <img
+      src=""
+      alt="terminal"
+      width="40"
+      height="40"
+    />
 </p>
