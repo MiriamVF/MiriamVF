@@ -92,6 +92,12 @@
   </a>
   </p>
 <p>
+   <img
+      src="https://raw.githubusercontent.com/ResetMiriam/ResetMiriam/main/assets/terminal.png"
+      alt="terminal"
+      width="40"
+      height="40"
+    />
   <a href="https://nodejs.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -163,10 +169,5 @@
     />
     
   </a>
-    <img
-      src="https://raw.githubusercontent.com/ResetMiriam/ResetMiriam/main/assets/terminal.png"
-      alt="terminal"
-      width="40"
-      height="40"
-    />
+   
 </p>
