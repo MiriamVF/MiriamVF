@@ -3,9 +3,11 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/miriam-verdú-francés" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/miriam-verdu-frances" height="30" width="40" /></a>
 </h4></h3>
 
+<p> 📄 I'm just finished <a href="https://adalab.es/" target="_blank">Adalab </a> Bootcamp.</p>
 <p> 🔭 I'm curretly working on my portfolio.</p>
 <p> 💬 Ask me about layout, JavaScript and React.</p>
 <p> 🌱 I'm a big fan of learning and constant evolution.</p>
+<p> 💼 Before becoming a developer I have worked as a marketing specialist in several multinational companies.</p>
 <p> 👨‍💻 I'm ready to turn to new projects and enjoy new challenges.</p>
 
 
