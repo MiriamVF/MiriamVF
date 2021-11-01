@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Miriam</h1>
-<h3 align="center">Front-end developer <a href="https://twitter.com/ResetMiriam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miypunto" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/miriam-verdú-francés" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/miriam-verdu-frances" height="30" width="40" /></a>
-</h4></h3>
+<h3 align="center">Front-end developer 
+</h3>
 
-<p> 📄 I'm just finished <a href="https://adalab.es/" target="_blank">Adalab </a> Bootcamp.</p>
-<p> 🔭 I'm curretly working on my portfolio.</p>
+<p> 📄 I'm graduated from <a href="https://adalab.es/" target="_blank">Adalab </a> Bootcamp.</p>
+<p> 🔭 I'm curretly working on my portfolio, it'll be available later in November.</p>
 <p> 💬 Ask me about layout, JavaScript and React.</p>
 <p> 🌱 I'm a big fan of learning and constant evolution.</p>
 <p> 💼 Before becoming a developer I have worked as a marketing specialist in several multinational companies.</p>
 <p> 👨‍💻 I'm ready to turn to new projects and enjoy new challenges.</p>
+<p> 📫 You can contact me at: <a href="https://twitter.com/ResetMiriam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miypunto" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/miriam-verdú-francés" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/miriam-verdu-frances" height="30" width="40" /></a></p>
 
 
 
