@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/ResetMiriam/ResetMiriam/main/github_image.png" alt="Image: Hello world! @ResetMiriam" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Miriam</h1>
 <h3 align="center">Front-end developer 
 </h3>
@@ -8,13 +12,12 @@
 <p> 🌱 I'm a big fan of learning and constant evolution.</p>
 <p> 💼 Before becoming a developer I have worked as a marketing specialist in several multinational companies.</p>
 <p> 👨‍💻 I'm ready to turn to new projects and enjoy new challenges.</p>
-<p> 📫 You can contact me at: <a href="https://twitter.com/ResetMiriam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miypunto" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/miriam-verdú-francés" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/miriam-verdu-frances" height="30" width="40" /></a></p>
-
-
+<p> 📫 You can contact me at: <a href="https://twitter.com/ResetMiriam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miypunto" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/miriam-verdú-francés" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/miriam-verdu-frances" height="20" width="30" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">      <a href="https://git-scm.com/" target="_blank">
+<p align="left">      
+  <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
@@ -89,7 +92,8 @@
       height="40"
     />
   </a>
-
+  </p>
+<p>
   <a href="https://nodejs.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -161,4 +165,3 @@
     />
   </a>
 </p>
-
