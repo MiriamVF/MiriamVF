@@ -5,7 +5,7 @@
 <h1 align="center">👋 I'm Miriam, a passionate frontend developer</h1>
 
 <p> 📄 I'm graduated from <a href="https://adalab.es/" target="_blank">Adalab </a> Bootcamp.</p>
-<p> 🔭 I'm curretly working on my portfolio, it'll be available later in December.</p>
+<p> 🔭 I'm curretly working on my portfolio, it'll be available later in Enero.</p>
 <p> 💬 Ask me about layout, JavaScript and React.</p>
 <p> 🌱 I'm a big fan of learning and constant evolution.</p>
 <p> 💼 Before becoming a developer I have worked as a marketing specialist in several multinational companies.</p>
