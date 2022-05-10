@@ -2,7 +2,7 @@
   <img width="100%" src="https://raw.githubusercontent.com/ResetMiriam/ResetMiriam/main/assets/github_image.png" alt="Image: Hello world! @ResetMiriam" />
 </div>
 
-<h1 align="center">👋 I'm Miriam, a passionate frontend developer</h1>
+<h1 align="center">👋 I'm Miriam, a passionate software developer</h1>
 
 <p> 📄 I'm graduated from <a href="https://adalab.es/" target="_blank">Adalab </a> Bootcamp.</p>
 <p> 💬 Ask me about layout, JavaScript, React and Java.</p>
