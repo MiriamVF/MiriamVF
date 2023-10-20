@@ -2,9 +2,9 @@
   <img width="100%" src="https://raw.githubusercontent.com/ResetMiriam/ResetMiriam/main/assets/github_image.png" alt="Image: Hello world! @ResetMiriam" />
 </div>
 
-<h1 align="center">👋 I'm Miriam, a passionate software developer</h1>
+<h1 align="center">👋 I'm Miriam, a passionate UX/UI Engineer </h1>
 
-<p> 📄 I'm graduated from <a href="https://adalab.es/" target="_blank">Adalab </a> Web Developer Bootcamp and from <a href="[https://adalab.es/](https://www.ironhack.com/es/diseno-ux-ui/madrid)" target="_blank">Ironhack</a> UX/UI Design Bootcamp.</p>
+<p> 📄 I'm graduated from <a href="https://adalab.es/" target="_blank">Adalab </a> Web Developer Bootcamp and from <a href="[https://www.ironhack.com/es/diseno-ux-ui/madrid]" target="_blank"> Ironhack</a> UX/UI Design Bootcamp.</p>
 <p> 💬 Ask me about UX/UI, layout, JavaScript, React and Java.</p>
 <p> 🌱 I'm a big fan of learning and constant evolution.</p>
 <p> 💼 Before becoming a designer and developer I have worked as a marketing specialist in several multinational companies.</p>
