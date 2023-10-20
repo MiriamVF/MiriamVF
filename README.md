@@ -4,10 +4,10 @@
 
 <h1 align="center">👋 I'm Miriam, a passionate software developer</h1>
 
-<p> 📄 I'm graduated from <a href="https://adalab.es/" target="_blank">Adalab </a> Bootcamp.</p>
-<p> 💬 Ask me about layout, JavaScript, React and Java.</p>
+<p> 📄 I'm graduated from <a href="https://adalab.es/" target="_blank">Adalab </a> Web Developer Bootcamp and from <a href="[https://adalab.es/](https://www.ironhack.com/es/diseno-ux-ui/madrid)" target="_blank">Ironhack </a>UX/UI Design Bootcamp.</p>
+<p> 💬 Ask me about UX/UI, layout, JavaScript, React and Java.</p>
 <p> 🌱 I'm a big fan of learning and constant evolution.</p>
-<p> 💼 Before becoming a developer I have worked as a marketing specialist in several multinational companies.</p>
+<p> 💼 Before becoming a designer and developer I have worked as a marketing specialist in several multinational companies.</p>
 <p> 👨‍💻 I'm ready to turn to new projects and enjoy new challenges.</p>
 <p> 📫 You can contact me at: <a href="https://twitter.com/ResetMiriam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ResetMiriam" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/miriam-verdú-francés" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/miriam-verdu-frances" height="20" width="30" /></a></p>
